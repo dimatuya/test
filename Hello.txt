@@ -1,3 +1,3 @@
-print('Hello')
-print('yo')
-print('yet')
+print('Hello;')
+print('yo;')
+print('yet;')
